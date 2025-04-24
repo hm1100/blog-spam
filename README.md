@@ -1,65 +1,75 @@
-# blog-spam
-Domain	DA	Spam Score	External Pages	Redirect Pages	Root Domains	Page Rank
-blogspot.com	70	-1	1153606	2842	25215	5.05
-Slashdot.com	52	-1	12969	1	754	4.32
-SlideShare.com	57	-1	144715	10	1641	4.42
-launch.joomla.org	92	1	4116004	4878	5482	3.66
-enjin.com	87	1	5942181	36949	12341	4.46
-articlesmaker.com	36	1	150834	1943	3446	4.2
-leapzipblog.com	38	1	52866	848	2166	2.64
-penzu.com	78	1	18745160	17976	128960	5.84
-smore.com	82	1	7801717	38206	81813	6.01
-issuewire.com	49	1	1766665	3373	9959	5
-Medium.com	95	1	815598994	41735557	1577851	9.07
-lycos.com	92	2	30495187	1101675	159244	5.1
-pressreleaselive.com	23	2	20290	26	949	2.51
-diigo.com	91	2	54323517	6965621	297422	6.53
-dailymotion.com	95	2	238068576	5322188	1120726	7.49
-hatenablog.com	57	3	51102081	47501	50143	4.64
-hatenablog.com	57	3	51102081	47501	50143	4.64
-reddit.com	92	3	2885684051	16725617	1922994	8.6
-vimeo.com	96	3	1145292372	5906824	3572181	9.3
-pixellair.ir	10	4	5289	84	1088	2.31
-doodlekit.com	47	4	3469733	2986435	151006	3.62
-fark.com	74	4	4368658	910991	34455	4.63
-virgool.io	47	5	3601675	109126	15547	4.5
-Delicious.com	88	5	152151218	649857	554376	6.24
-Digg.com	92	5	1081344520	22489541	785088	6.9
-eklablog.com	70	6	64058329	3297063	295283	3.5
-Mix.com	72	6	42461656	13352685	74406	5.07
-pinterest.com	94	7	11543897171	84748898	6378074	9.59
-omigo.ir	32	8	231281	1614	2779	3.32
-estate-blog.com	68	9	1289	65	449	2.28
-farsiblog.com	54	10	631353	101	742	2.11
-blogtez.com	34	11	31515	58	1117	2.54
-loxblog.com	52	11	2364087	1288	1575	2.91
-blogsky.com	58	11	239675	276	3994	2.62
-oblogation.com	68	11	909	83	405	
-daneblogger.com	67	11	1635	910	528	3.5
-edublogs.org	81	12	22475013	335012	328433	4.89
-ambien-blog.com	52	12	16994	254	1038	2.52
-rimmablog.com	51	12	3584	6551	685	2.92
-glifeblog.com	68	12	5954	68	590	2.65
-edublogs.org	81	12	22475013	335012	328433	4.89
-tokka-blog.com	65	13	3655	48	427	2.32
-fare-blog.com	68	13	1143	50	224	2.28
-rozblog.com	48	14	7809818	19805	4813	
-amoblog.com	76	14	8978	2205	576	2.57
-boyblogguide.com	68	14	1605	118	558	2.57
-dm-blog.com	68	14	1100	44	451	2.37
-actoblog.com	69	15	1240	109	425	2.65
-bloguetechno.com	65	15	3068	N/A	540	2.58
-weblogco.com	65	15	1265	627	427	2.66
-affiliatblogger.com	73	16	6985	369	723	2.57
-blogtov.com	67	16	1154	45	322	2.57
-creacionblog.com	66	16	2975	46	331	2.56
-royablog.ir	51	17	11378	590	1103	2.26
-bizsugar.com	53	18	623480	11652	13005	3.87
-tusblogos.com	68	19	1235	42	742	2.72
-aparat.com	83	19	157665544	1071401	100923	5.98
-blog.ir	60	20	2089456	198	3424	3.66
-eedblog.com	67	20	1209	55	409	2.57
-telegra.ph	93	21	552538052	6881791	375871	6.14
-justpaste.it	91	22	19896464	381131	138545	6.82
-blogfa.com	30	24	77970041	5675	631558	3.37
-![image](https://github.com/user-attachments/assets/c9e7ddc8-24d7-4f87-9a38-d73ecf830380)
+Domain	DA	Spam Score
+blogspot.com	70	-1
+Slashdot.com	52	-1
+SlideShare.com	57	-1
+launch.joomla.org	92	1
+enjin.com	87	1
+articlesmaker.com	36	1
+leapzipblog.com	38	1
+penzu.com	78	1
+smore.com	82	1
+issuewire.com	49	1
+Medium.com	95	1
+lycos.com	92	2
+pressreleaselive.com	23	2
+diigo.com	91	2
+dailymotion.com	95	2
+hatenablog.com	57	3
+hatenablog.com	57	3
+reddit.com	92	3
+vimeo.com	96	3
+pixellair.ir	10	4
+doodlekit.com	47	4
+fark.com	74	4
+virgool.io	47	5
+Delicious.com	88	5
+Digg.com	92	5
+eklablog.com	70	6
+Mix.com	72	6
+pinterest.com	94	7
+omigo.ir	32	8
+estate-blog.com	68	9
+farsiblog.com	54	10
+blogtez.com	34	11
+loxblog.com	52	11
+blogsky.com	58	11
+oblogation.com	68	11
+daneblogger.com	67	11
+edublogs.org	81	12
+ambien-blog.com	52	12
+rimmablog.com	51	12
+glifeblog.com	68	12
+edublogs.org	81	12
+tokka-blog.com	65	13
+fare-blog.com	68	13
+rozblog.com	48	14
+amoblog.com	76	14
+boyblogguide.com	68	14
+dm-blog.com	68	14
+actoblog.com	69	15
+bloguetechno.com	65	15
+weblogco.com	65	15
+affiliatblogger.com	73	16
+blogtov.com	67	16
+creacionblog.com	66	16
+royablog.ir	51	17
+bizsugar.com	53	18
+tusblogos.com	68	19
+aparat.com	83	19
+blog.ir	60	20
+eedblog.com	67	20
+telegra.ph	93	21
+justpaste.it	91	22
+blogfa.com	30	24
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
